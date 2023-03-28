@@ -16,7 +16,7 @@ site de um portfolio que fiz
 
 ## Feito por:
 
-### Joana Santos
+### Fellipe Augusto
 
-### Linkedin: https://www.linkedin.com/school/aluracursos/
+### Linkedin: https://www.linkedin.com/in/fellipe-augusto-232343257/
 
