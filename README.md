@@ -1,6 +1,6 @@
 # portifolio
 site de um portfolio que fiz
-```
+
 
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
@@ -20,4 +20,3 @@ site de um portfolio que fiz
 
 ### Linkedin: https://www.linkedin.com/school/aluracursos/
 
-```
