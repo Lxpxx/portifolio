@@ -1,5 +1,4 @@
-# portifolio
-site de um portfolio que fiz
+# Portifolio
 
 
 # Bem vindo ao meu projeto de portfólio.
